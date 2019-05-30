@@ -1,2 +1,153 @@
-Checking IP Information from iplist.txt on 2019-05-30 14:02:33.733008
+Checking IP Information from iplist.txt on 2019-05-30 15:58:05.306961
+
+IP: 151.101.65.67
+Organization: Fastly
+Operating System: None
+
+Port: 443
+Banner: HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=utf-8
+x-servedByHost: ::ffff:127.0.0.1
+Cache-Control: max-age=5
+Via: 1.1 varnish
+Content-Length: 894736
+Accept-Ranges: bytes
+Date: Thu, 30 May 2019 12:14:40 GMT
+Via: 1.1 varnish
+Age: 4
+Connection: keep-alive
+Set-Cookie: countryCode=NL; Domain=.cnn.com; Path=/
+Set-Cookie: geoData=amsterdam|NH|1011 aa|NL|EU|200|broadband; Domain=.cnn.com; Path=/
+X-Served-By: cache-iad2129-IAD, cache-ams21041-AMS
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 1
+X-Timer: S1559218480.493915,VS0,VE5
+Vary: Accept-Encoding
+
+
+
+Port: 80
+Banner: HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Content-Length: 0
+Cache-Control: public, max-age=600
+Location: https://www.cnn.com/
+Accept-Ranges: bytes
+Date: Thu, 30 May 2019 12:14:19 GMT
+Via: 1.1 varnish
+Connection: close
+Set-Cookie: countryCode=NL; Domain=.cnn.com; Path=/
+Set-Cookie: geoData=amsterdam|NH|1011 aa|NL|EU|200|broadband; Domain=.cnn.com; Path=/
+X-Served-By: cache-ams21023-AMS
+X-Cache: HIT
+X-Cache-Hits: 0
+
+
+
+IP: 172.217.3.238
+Organization: Google
+Operating System: None
+
+Port: 443
+Banner: HTTP/1.1 301 Moved Permanently
+Location: http://www.google.com/
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 28 May 2019 16:15:10 GMT
+Expires: Thu, 27 Jun 2019 16:15:10 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 219
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: quic=":443"; ma=2592000; v="46,44,43,39"
+
+
+
+Port: 80
+Banner: HTTP/1.1 301 Moved Permanently
+Location: http://www.google.com/
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 23 May 2019 03:14:00 GMT
+Expires: Sat, 22 Jun 2019 03:14:00 GMT
+Cache-Control: public, max-age=2592000
+Server: gws
+Content-Length: 219
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+
+
+IP: 130.211.45.45
+Organization: Google Cloud
+Operating System: None
+
+Port: 8080
+Banner: HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer
+Content-Length: 1561
+Date: Thu, 30 May 2019 16:48:00 GMT
+
+
+
+Port: 80
+Banner: HTTP/1.1 502 Bad Gateway
+Server: shield
+Date: Wed, 29 May 2019 10:31:52 GMT
+Content-Type: application/octet-stream
+Content-Length: 943
+Cache-Control: no-cache
+Content-Type: text/html
+Via: 1.1 google
+
+
+
+Port: 5900
+Banner: 
+
+Port: 25
+Banner: 
+
+Port: 587
+Banner: 
+
+Port: 9200
+Banner: 
+
+Port: 195
+Banner: 
+
+Port: 5901
+Banner: 
+
+Port: 443
+Banner: HTTP/1.1 200 OK
+Server: shield
+Date: Fri, 17 May 2019 13:03:25 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+Link: <https://krebsonsecurity.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Cache-Control: max-age=311, public
+Expires: Fri, 17 May 2019 13:04:58 GMT
+X-Cache-Status: EXPIRED
+X-Shield-Request-Id: 484bc45bf7daf00c6c795c49479bafa5
+Via: 1.1 google
+Alt-Svc: clear
+
+
+
+Port: 1883
+Banner: 
+
+Port: 5672
+Banner: 
+
+Port: 3389
+Banner: 
+
+Port: 5222
+Banner: 
 
